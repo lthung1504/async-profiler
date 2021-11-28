@@ -1,0 +1,6 @@
+# Enable auto-env through the sdkman_auto_env config
+# Add key=value pairs of SDKs to use below
+# following below as version of mof using
+java=7.0.312-zulu
+grails=2.4.2
+groovy=2.2.1
